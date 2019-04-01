@@ -7,7 +7,7 @@ using WebApi.DataModel;
 
 namespace WebApi.DAL
 {
-    public class PaymentsDAL
+    public class PaymentsDAL:IPaymentsDAL
     {
         public int ShowBalanceAmount(int id)
         {

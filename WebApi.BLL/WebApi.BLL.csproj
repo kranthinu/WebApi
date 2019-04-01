@@ -37,12 +37,6 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="WebApi.DAL">
-      <HintPath>..\WebApi.DAL\bin\Debug\WebApi.DAL.dll</HintPath>
-    </Reference>
-    <Reference Include="WebApi.DataModel">
-      <HintPath>..\WebApi.DataModel\bin\Debug\WebApi.DataModel.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ControllerBLL.cs" />
@@ -52,6 +46,16 @@
     <Compile Include="PaymentsBLL.cs" />
     <Compile Include="StudentsBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WebApi.DAL\WebApi.DAL.csproj">
+      <Project>{20cb24e8-65cb-44cd-a610-2177a978d596}</Project>
+      <Name>WebApi.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WebApi.DataModel\WebApi.DataModel.csproj">
+      <Project>{ee45ac1b-25ad-4215-ab8b-14ab1cf6f48a}</Project>
+      <Name>WebApi.DataModel</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

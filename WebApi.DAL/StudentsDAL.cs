@@ -7,7 +7,7 @@ using WebApi.DataModel;
 
 namespace WebApi.DAL
 {
-    public class StudentsDAL
+    public class StudentsDAL:IStudentsDAL
     {
         public List<Students> getAllStudentsInfo()
         {

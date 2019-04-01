@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Threading.Tasks;
 using System.Web.Http;
 using WebApi.BLL;
 using WebApi.DataModel;
@@ -30,13 +31,9 @@ namespace WebApi.Controllers
         }
 
         // POST api/<controller>
-        public void Post([FromBody]string value)
+        public List<Students> Post([FromBody]Students student)
         {
-        }
-
-        // PUT api/<controller>/5
-        public void Put(int id, [FromBody]string value)
-        {
+            return this.controllerBLL.insertStudentsInfo(student);
         }
 
         // DELETE api/<controller>/5

@@ -23,7 +23,7 @@ namespace WebApi
 
                 UriBuilder uriBuilder = new UriBuilder(actionContext.Request.RequestUri);
                 uriBuilder.Scheme = Uri.UriSchemeHttps;
-                uriBuilder.Port = 44337;
+                uriBuilder.Port = 60329;
 
                 actionContext.Response.Headers.Location = uriBuilder.Uri;
             }

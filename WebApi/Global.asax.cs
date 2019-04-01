@@ -12,6 +12,10 @@ namespace WebApi
         protected void Application_Start()
         {
             GlobalConfiguration.Configure(WebApiConfig.Register);
+
+  //          GlobalConfiguration.Configuration
+  //.EnableSwagger(c => c.SingleApiVersion("v1", "A title for your API"))
+  //.EnableSwaggerUi();
         }
     }
 }

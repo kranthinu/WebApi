@@ -8,7 +8,7 @@ using WebApi.BLL;
 
 namespace WebApi.Controllers
 {
-    [RequireHttpsAttribute]
+    [RequireHttps]
     public class PaymentsController : ApiController
     {
         readonly IControllerBLL controllerBLL;
