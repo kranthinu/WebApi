@@ -1,0 +1,9 @@
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\WebApi\WebApi.BLL\obj\Debug\WebApi.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\WebApi\WebApi.BLL\bin\Debug\WebApi.BLL.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\WebApi\WebApi.BLL\bin\Debug\WebApi.BLL.pdb
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\WebApi\WebApi.BLL\bin\Debug\WebApi.DAL.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\WebApi\WebApi.BLL\bin\Debug\WebApi.DataModel.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\WebApi\WebApi.BLL\bin\Debug\WebApi.DAL.pdb
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\WebApi\WebApi.BLL\bin\Debug\WebApi.DataModel.pdb
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\WebApi\WebApi.BLL\obj\Debug\WebApi.BLL.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\WebApi\WebApi.BLL\obj\Debug\WebApi.BLL.pdb

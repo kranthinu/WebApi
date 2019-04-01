@@ -1,0 +1,4 @@
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\WebApi\WebApi.DataModel\bin\Debug\WebApi.DataModel.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\WebApi\WebApi.DataModel\bin\Debug\WebApi.DataModel.pdb
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\WebApi\WebApi.DataModel\obj\Debug\WebApi.DataModel.dll
+C:\Users\Kranthi\Desktop\Kranthi .net\apex\Coding\WebApi\WebApi.DataModel\obj\Debug\WebApi.DataModel.pdb
